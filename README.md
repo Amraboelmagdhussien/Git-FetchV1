@@ -1,6 +1,6 @@
 # Git-FetchV1
 <h1 style="color:blue;">HELLO THERE !</h1>
-<h2>Welcome to my Git-fetch</h2>
+Welcome to my Git-fetch
 We used in this Project HTML + CSS + Javascript 
 by using github API we built website that get Followers, numbers of repos username and url 
 
